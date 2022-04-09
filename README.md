@@ -1,6 +1,6 @@
 👋 Hi, I’m Eric Alencar, 17 years old.
 
-👀 I’m interested in developing Spigot and Java projects.
+👀 I’m interested in developing Java projects.
 
 🌱 I’m currently learning Java Development.
 

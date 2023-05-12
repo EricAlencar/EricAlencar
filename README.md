@@ -1,8 +1,8 @@
-👋 Hi, I’m Eric Alencar, 17 years old.
+👋 Hi, I’m Eric Alencar, 18 years old.
 
-👀 I’m interested in developing Java projects.
+👀 I’m interested in developing Laravel projects.
 
-🌱 I’m currently learning Java Development.
+🌱 I’m currently learning Laravel Development.
 
 📬 My contact email: ericpalencar@gmail.com
 
